@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codingark
 - 👀 I’m interested in coding, collabration, and creating.
-- 🌱 I’m currently learning html,  css, and js.
-- 💞️ I’m looking to collaborate on projects related to html, css, js or python.
+- 🌱 I am deep into python, html,  css, and js.
+- 💞️ I collaborate on projects relating to html, css, js or python.
 - 📫 How to reach me: email (t.jovi@outlook.com).
 
 <!---
